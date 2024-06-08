@@ -1,0 +1,14 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "S872XJ4Q8X.kg.geekstudio.booblik",
+          "paths": [
+            "/path",
+            "/path/news/id/*"
+          ]
+        }
+      ]
+    }
+}

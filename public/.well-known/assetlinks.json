@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "kg.geekstudio.booblik.android",
+      "package_name": "kg.geekstudio.booblik.android",
+      "sha256_cert_fingerprints": ["BB:98:99:A9:41:18:B2:C0:4D:C9:9E:6F:0E:2F:E9:9C:95:B0:AE:A1:2F:06:92:6D:D0:44:68:CF:6C:17:09:90"]
+    }
+  }
+]

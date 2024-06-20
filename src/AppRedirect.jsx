@@ -7,7 +7,7 @@ const AppRedirect = () => {
         const appStoreUrl = 'https://apps.apple.com/us/app/%D0%BA%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D1%8F-%D0%B1%D1%83%D0%B1%D0%BB%D0%B8%D0%BA/id1481448597';
 
         const androidAppUrl = 'intent://kg.geekstudio.booblik.android#Intent;scheme=kg.geekstudio.booblik.android;package=kg.geekstudio.booblik.android;end';
-        const iosAppUrl = 'music://';
+        const iosAppUrl = 'booblik://';
 
         function isStandaloneMode() {
             return ('standalone' in window.navigator) && (window.navigator.standalone);

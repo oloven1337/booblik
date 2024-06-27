@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/path", "destination": "/index.html" },
-    { "source": "/path/news/id/:id*", "destination": "/index.html" }
-  ]
-}

@@ -5,6 +5,10 @@ import {createBrowserRouter, RouterProvider} from "react-router-dom";
 
 export const routes= [
     {
+        path: '/',
+        element: null,
+    },
+    {
         path: '*',
         element: null,
     },

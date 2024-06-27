@@ -2,6 +2,7 @@
   "rewrites": [
     { "source": "/path", "destination": "/" },
     { "source": "/path/news/id/:id*", "destination": "/" },
+     { "source": "/path/bonus/id/:id*", "destination": "/" },
     { "source": "/(.*)", "destination": "/" }
 
   ]
